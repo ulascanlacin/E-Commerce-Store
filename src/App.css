@@ -1,0 +1,31 @@
+/* Navbar kismi baslangic   */
+.navbar-nav a {
+  font-size: 20px;
+}
+
+.bg-image {
+  background-image: url("https://i.imgur.com/Fvhdkof.jpeg");
+
+}
+
+.mysidebar button {
+
+  font-size: 1.5vw;
+
+}
+
+@media screen and (min-width: 400px) {}
+
+@media screen and (max-width: 1024px) {
+  .mysidebar button {
+
+    font-size: 1.5vw;
+
+  }
+}
+
+.mycard img:hover {
+
+  transform: scale(1.1);
+
+}
